@@ -109,7 +109,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Добро пожаловать.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Добро пожаловать"
+              "title": "Обратные ссылки"
             }
           },
           {
@@ -128,12 +127,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Добро пожаловать.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Добро пожаловать"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -154,11 +152,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Добро пожаловать.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "Структура Добро пожаловать"
+              "title": "Структура"
             }
           }
         ]
@@ -178,7 +174,7 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "3c83b6a7344bf55c",
+  "active": "c6704c9ea14e34b6",
   "lastOpenFiles": [
     "Добро пожаловать.md"
   ]
