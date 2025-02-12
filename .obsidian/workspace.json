@@ -4,25 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "74d692b37cf26425",
+        "id": "a54d806113b48970",
         "type": "tabs",
         "children": [
           {
-            "id": "0b44e7751b334c7a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Философия/Видеоматериалы.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Видеоматериалы"
-            }
-          },
-          {
-            "id": "7314f2a06682f875",
+            "id": "fe7a7ea9aa16a740",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -35,8 +21,7 @@
               "title": "Философия 12.02.2025"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -177,8 +162,12 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "7314f2a06682f875",
+  "active": "fe7a7ea9aa16a740",
   "lastOpenFiles": [
+    "Философия/Философия.md",
+    "Физика/Кинематика 10.02.2025.md",
+    "Физика/Физика.md",
+    "Физика",
     "Философия/Видеоматериалы.md",
     "Философия/Философия 12.02.2025.md",
     "Ядро Безопасности.md",
