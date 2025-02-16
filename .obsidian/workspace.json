@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "6f0cda14db32cc9a",
+        "id": "285685c1a00832d3",
         "type": "tabs",
         "children": [
           {
-            "id": "f02ec707fb872254",
+            "id": "9a2bce9a5ad6451b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Профессия — Белый Хакер/Сети/Сети OSI.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Сети OSI"
+              "title": "Новая вкладка"
             }
           }
         ]
@@ -113,12 +109,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Профессия — Белый Хакер/Сети/Сети OSI.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Сети OSI"
+              "title": "Исходящие ссылки"
             }
           },
           {
@@ -166,11 +161,11 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "fc088dfa58ae1a5e",
+  "active": "9a2bce9a5ad6451b",
   "lastOpenFiles": [
     "Inglish.md",
-    "Профессия — Белый Хакер/Сети/Сети.md",
     "Профессия — Белый Хакер/Сети/Сети OSI.md",
+    "Профессия — Белый Хакер/Сети/Сети.md",
     "OSI_Model_v1.svg",
     "2025-02-15.md",
     "Документоведение/Документоведение.md",
