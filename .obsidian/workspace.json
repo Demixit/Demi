@@ -11,14 +11,12 @@
             "id": "9a2bce9a5ad6451b",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "Ядро учебы/Физика/Домашка 17.02.md",
-                "mode": "preview",
-                "source": false
+                "file": "OSI_Model_v1.svg"
               },
-              "icon": "lucide-file",
-              "title": "Домашка 17.02"
+              "icon": "lucide-image",
+              "title": "OSI_Model_v1"
             },
             "group": "183217973cbecca7"
           }
@@ -34,13 +32,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Ядро учебы/Физика/Домашка 17.02.md",
+                "file": "OSI_Model_v1.svg",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Домашка 17.02"
+              "title": "Структура OSI_Model_v1"
             },
             "group": "183217973cbecca7"
           }
@@ -136,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Ядро учебы/Физика/Домашка 17.02.md",
+                "file": "OSI_Model_v1.svg",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Домашка 17.02"
+              "title": "Исходящие ссылки из OSI_Model_v1"
             }
           },
           {
@@ -189,11 +187,14 @@
       "obsidian-importer:Open Importer": false
     }
   },
-  "active": "64da495e80da9d23",
+  "active": "9a2bce9a5ad6451b",
   "lastOpenFiles": [
+    "Сетевая модель OSI — Википедия.html",
+    "OSI_Model_v1.svg",
+    "Ядро учебы/Физика/Домашка 17.02.md",
+    "дз",
     "Ядро учебы/Физика/Кинематика 10.02.2025.md",
     "Ядро учебы/Физика/Физика.md",
-    "Ядро учебы/Физика/Домашка 17.02.md",
     "Ядро учебы/Физика/Домашка.md",
     "Ядро учебы/Английский/Inglish.md",
     "Ядро учебы/Ядро учебы.md",
@@ -202,8 +203,6 @@
     "Ядро учебы/Основы Алгоритмов и Программирования/Алгоротмизация.md",
     "2025-02-15.md",
     "2025-02-14.md",
-    "Сетевая модель OSI — Википедия.html",
-    "OSI_Model_v1.svg",
     "Ядро учебы",
     "Ядро учебы/Экономика/Доклад Экономика.md",
     "Ядро учебы/Экономика/Экономика.md",
@@ -233,8 +232,6 @@
     "Профессия — Белый Хакер/Linux Основы/Файловая система Linux.md",
     "Профессия — Белый Хакер/Linux Основы/Командная оболочка Linux.md",
     "Ядро учебы/Экономика",
-    "Ядро учебы/Философия/Философия 12.02.2025.md",
-    "Ядро учебы/Физика",
     "Без названия 3.canvas",
     "Без названия 4.canvas",
     "Без названия 1.canvas",
