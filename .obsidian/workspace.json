@@ -11,36 +11,15 @@
             "id": "9a2bce9a5ad6451b",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "OSI_Model_v1.svg"
+                "file": "Ядро учебы/Физика/Домашка 17.02.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "OSI_Model_v1"
-            },
-            "group": "183217973cbecca7"
-          }
-        ]
-      },
-      {
-        "id": "f563d2ed6ea41fd9",
-        "type": "tabs",
-        "children": [
-          {
-            "id": "64da495e80da9d23",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "OSI_Model_v1.svg",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Структура OSI_Model_v1"
-            },
-            "group": "183217973cbecca7"
+              "icon": "lucide-file",
+              "title": "Домашка 17.02"
+            }
           }
         ]
       }
@@ -134,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "OSI_Model_v1.svg",
+                "file": "Ядро учебы/Физика/Домашка 17.02.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из OSI_Model_v1"
+              "title": "Исходящие ссылки из Домашка 17.02"
             }
           },
           {
@@ -189,8 +168,8 @@
   },
   "active": "9a2bce9a5ad6451b",
   "lastOpenFiles": [
-    "Сетевая модель OSI — Википедия.html",
     "OSI_Model_v1.svg",
+    "Сетевая модель OSI — Википедия.html",
     "Ядро учебы/Физика/Домашка 17.02.md",
     "дз",
     "Ядро учебы/Физика/Кинематика 10.02.2025.md",
