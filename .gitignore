@@ -3,3 +3,9 @@
 .obsidian/app.json
 .obsidian/workspace.json
 /Портфолио
+
+
+
+
+# Ignore Smart Environment folder
+.smart-env

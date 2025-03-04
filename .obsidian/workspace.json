@@ -20,8 +20,79 @@
               "icon": "lucide-file",
               "title": "4.1.20 пересказ"
             }
+          },
+          {
+            "id": "f4bda4bb96853695",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Ядро учебы/Документоведение/Лекция 14.02 Документоведение.canvas",
+                "viewState": {
+                  "x": 943,
+                  "y": 1590,
+                  "zoom": -0.770568251803825
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Лекция 14.02 Документоведение"
+            }
+          },
+          {
+            "id": "eb6b73ca666e44f0",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "3D-Graph"
+            }
+          },
+          {
+            "id": "f24e22c4287ff34a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ядро учебы/Математика/Домашнее задание 25.02 Математик.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Домашнее задание 25.02 Математик"
+            }
+          },
+          {
+            "id": "0a441b2a53e3ba76",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Портфолио/Pasted image 20250226174522.png"
+              },
+              "icon": "lucide-image",
+              "title": "Pasted image 20250226174522"
+            }
+          },
+          {
+            "id": "fe9865b8fa517304",
+            "type": "leaf",
+            "state": {
+              "type": "canvas",
+              "state": {
+                "file": "Портфолио/Модели.canvas",
+                "viewState": {
+                  "x": -600,
+                  "y": -437.1499931237381,
+                  "zoom": -0.3651483509414222
+                }
+              },
+              "icon": "lucide-layout-dashboard",
+              "title": "Модели"
+            }
           }
-        ]
+        ],
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -53,7 +124,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#include",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,24 +149,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 231.0110321044922
+    "width": 200
   },
   "right": {
     "id": "24a1d85c8ae5b186",
     "type": "split",
     "children": [
       {
-        "id": "a1b372b6847bf9da",
+        "id": "48ce80c4d5872927",
         "type": "tabs",
+        "dimension": 45.378151260504204,
         "children": [
           {
             "id": "26fe22a436038cc3",
             "type": "leaf",
-            "pinned": true,
             "state": {
               "type": "graph",
               "state": {},
-              "pinned": true,
               "icon": "lucide-git-fork",
               "title": "Граф"
             }
@@ -105,6 +175,7 @@
       {
         "id": "07b0a12b27305369",
         "type": "tabs",
+        "dimension": 35.947712418300654,
         "children": [
           {
             "id": "9cd4fcd389c54fbc",
@@ -117,10 +188,31 @@
             }
           }
         ]
+      },
+      {
+        "id": "6191ac674cda6398",
+        "type": "tabs",
+        "dimension": 18.674136321195146,
+        "children": [
+          {
+            "id": "4903f22ac1275e51",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Заметки.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Заметки"
+            }
+          }
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 315
+    "width": 270.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -134,40 +226,53 @@
       "mermaid-tools:Open Mermaid Toolbar": false,
       "3d-graph:3D Graph": false,
       "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false
+      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
+      "companion:Toggle completion": false,
+      "copilot:Open Copilot Chat": false,
+      "smart-connections:Open: View Smart Connections": false,
+      "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "29e2efc55096b5d5",
+  "active": "fe9865b8fa517304",
   "lastOpenFiles": [
-    "Ядро учебы/Физика/Физика.md",
-    "Домашнее задание 24.02 Физика.md",
-    "Ядро учебы/Физика/Домашнее задание 24.02 Физика.canvas",
-    "Ядро учебы/Физика/Домашнее задание 24.02 Физика.md",
-    "Ядро учебы/Английский/Английский.md",
-    "Ядро учебы/Математика/Математика.md",
-    "Ядро учебы/Математика/Без названия.canvas",
-    "Ядро учебы/Ядро учебы.md",
-    "Ядро учебы/Архив/Архив.md",
+    "Pasted image 20250304165705.jpg",
+    "Pasted image 20250304165641.jpg",
+    "Screenshot 2025-01-30 130540.png",
+    "Screenshot 2025-01-03 162347.png",
+    "Screenshot 2025-03-04 115314.png",
+    "photo_2022-04-12_09-13-47.jpg",
+    "photo_2022-03-13_18-32-37.jpg",
+    "photo_2022-03-06_15-24-02.jpg",
     "Портфолио/Ядро Навыков.md",
+    "Портфолио/Каналы для обучения.md",
+    "Ядро учебы/Математика/Домашнее задание 25.02 Математик.md",
+    "Портфолио/Pasted image 20250226174522.png",
+    "Ядро учебы/Физика/Физика.md",
+    "Ядро учебы/Физика/Лекция Динамика.md",
+    "Без названия.canvas",
+    "symbols.md",
+    "Ядро учебы/Математика/Математика.md",
+    "Ядро учебы/Ядро учебы.md",
+    "Ядро учебы/Математика/Домашнее задание 25.02 Математика.md",
+    "Ядро учебы/Математика/Без названия.canvas",
+    "Ядро учебы/Английский/4.1.20 пересказ.md",
+    "Ядро учебы/Документоведение/Лекция 14.02 Документоведение.canvas",
+    "Заметки.md",
+    "Ядро учебы/Физика/Домашнее задание 24.02 Физика.canvas",
+    "Ядро учебы/Английский/4.1.19 Слова.md",
     "TimeList/Рассписание.md",
-    "TimeList/2025-03-03.md",
+    "TimeList/2025-03-10.md",
+    "TimeList/2025-03-24.md",
     "TimeList/2025-03-04.md",
     "Ядро учебы/Физика/Лекция Кинематика 10.02.2025.md",
-    "Ядро учебы/Английский/4.1.20 пересказ.md",
-    "Ядро учебы/Физика/Домашнее Задание 17.02 Физика.md",
-    "Ядро учебы/Физика/Домашнее задание 10.02 Физика.md",
-    "TimeList/2025-06-09.md",
-    "TimeList/2025-06-06.md",
-    "TimeList/2025-06-05.md",
-    "TimeList/2025-06-04.md",
-    "TimeList/2025-06-03.md",
-    "TimeList/2025-05-30.md",
-    "TimeList/2025-05-29.md",
-    "TimeList/2025-05-28.md",
-    "TimeList/2025-05-27.md",
-    "TimeList/2025-05-26.md",
-    "TimeList/2025-05-23.md",
-    "Ядро учебы/Документоведение/Лекция 14.02 Документоведение.canvas",
+    "TimeList/2025-03-27.md",
+    "TimeList/2025-03-18.md",
+    "TimeList/2025-03-13.md",
+    "TimeList/2025-03-12.md",
+    "TimeList/2025-03-26.md",
+    "TimeList/2025-03-03.md",
+    "Домашнее задание 24.02 Физика.md",
+    "Ядро учебы/Физика/Домашнее задание 24.02 Физика.md",
     "TimeList",
     "Ядро учебы/Математика",
     "..gif",
@@ -177,19 +282,11 @@
     "Ядро учебы/Архив",
     "Без названия 1",
     "Ядро учебы/файлы/Pasted image 20250228091717.png",
-    "Ядро учебы/файлы/Pasted image 20250228092337.png",
-    "Pasted image 20250228120024.png",
-    "Pasted image 20250228113720.png",
-    "2.png",
-    "1.png",
     "Без названия 1.canvas",
     "Портфолио/Модели.canvas",
     "pptC75D.tmp",
     "~$Предприятие ООО.pptx",
-    "OSI_Model_v1.svg",
-    "Портфолио/Pasted image 20250226174522.png",
     "Профессия — Белый Хакер/Сети/Сетевая модель OSI — Википедия.html",
-    "Ядро учебы/файлы/Pasted image 20250214100029.png",
     "Без названия 3.canvas",
     "Без названия 4.canvas",
     "Без названия 2.canvas"

@@ -9,5 +9,6 @@
     "downscalePercent": 68
   },
   "showLineNumber": false,
-  "readableLineLength": false
+  "readableLineLength": false,
+  "tabSize": 3
 }
