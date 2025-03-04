@@ -78,17 +78,12 @@
             "id": "fe9865b8fa517304",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "image",
               "state": {
-                "file": "Портфолио/Модели.canvas",
-                "viewState": {
-                  "x": -600,
-                  "y": -437.1499931237381,
-                  "zoom": -0.3651483509414222
-                }
+                "file": "Портфолио/Pasted image 20250304165641.jpg"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Модели"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250304165641"
             }
           }
         ],
@@ -233,17 +228,18 @@
       "smart-connections:Open: Smart Chat Conversation": false
     }
   },
-  "active": "fe9865b8fa517304",
+  "active": "fc088dfa58ae1a5e",
   "lastOpenFiles": [
-    "Pasted image 20250304165705.jpg",
-    "Pasted image 20250304165641.jpg",
-    "Screenshot 2025-01-30 130540.png",
-    "Screenshot 2025-01-03 162347.png",
-    "Screenshot 2025-03-04 115314.png",
-    "photo_2022-04-12_09-13-47.jpg",
-    "photo_2022-03-13_18-32-37.jpg",
-    "photo_2022-03-06_15-24-02.jpg",
     "Портфолио/Ядро Навыков.md",
+    "Портфолио/Модели.canvas",
+    "Портфолио/Pasted image 20250304165705.jpg",
+    "Портфолио/Pasted image 20250304165641.jpg",
+    "Портфолио/Screenshot 2025-01-30 130540.png",
+    "Портфолио/Screenshot 2025-01-03 162347.png",
+    "Портфолио/Screenshot 2025-03-04 115314.png",
+    "Портфолио/photo_2022-04-12_09-13-47.jpg",
+    "Портфолио/photo_2022-03-13_18-32-37.jpg",
+    "Портфолио/photo_2022-03-06_15-24-02.jpg",
     "Портфолио/Каналы для обучения.md",
     "Ядро учебы/Математика/Домашнее задание 25.02 Математик.md",
     "Портфолио/Pasted image 20250226174522.png",
@@ -281,9 +277,7 @@
     "Ядро учебы/История/Олимпийская эра.docx",
     "Ядро учебы/Архив",
     "Без названия 1",
-    "Ядро учебы/файлы/Pasted image 20250228091717.png",
     "Без названия 1.canvas",
-    "Портфолио/Модели.canvas",
     "pptC75D.tmp",
     "~$Предприятие ООО.pptx",
     "Профессия — Белый Хакер/Сети/Сетевая модель OSI — Википедия.html",
