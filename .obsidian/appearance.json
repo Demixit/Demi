@@ -1,6 +1,7 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Shiba Inu",
+  "cssTheme": "Encore",
   "showRibbon": true,
-  "accentColor": "#9c0eb9"
+  "accentColor": "",
+  "textFontFamily": ""
 }

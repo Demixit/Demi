@@ -4,11 +4,109 @@
     "type": "split",
     "children": [
       {
-        "id": "13cce60aacb7478c",
+        "id": "9f2d5456b0937d1b",
         "type": "tabs",
         "children": [
           {
-            "id": "29e2efc55096b5d5",
+            "id": "d9d0774a8fff4180",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия 3.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия 3"
+            }
+          },
+          {
+            "id": "1e61ce73db519192",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Задание 10.04 Алгоритмизация.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Задание 10.04 Алгоритмизация"
+            }
+          },
+          {
+            "id": "fd1700a48178bbfc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Пути экономии оборотных средств предприятия.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Пути экономии оборотных средств предприятия"
+            }
+          },
+          {
+            "id": "ee7ae0101872fdb6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Презентация 09.04 Философия.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Презентация 09.04 Философия"
+            }
+          },
+          {
+            "id": "ae08fcc1de44897e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "История 10.04.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "История 10.04"
+            }
+          },
+          {
+            "id": "4f3fa425d2ab1342",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Задание 11.04 Алгоритмизация.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Задание 11.04 Алгоритмизация"
+            }
+          },
+          {
+            "id": "0eca11119cc322b0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия 9.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия 9"
+            }
+          },
+          {
+            "id": "909732dfff96f1c3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -22,38 +120,105 @@
             }
           },
           {
-            "id": "f4bda4bb96853695",
-            "type": "leaf",
-            "state": {
-              "type": "canvas",
-              "state": {
-                "file": "Ядро учебы/Документоведение/Лекция 14.02 Документоведение.canvas",
-                "viewState": {
-                  "x": 943,
-                  "y": 1590,
-                  "zoom": -0.770568251803825
-                }
-              },
-              "icon": "lucide-layout-dashboard",
-              "title": "Лекция 14.02 Документоведение"
-            }
-          },
-          {
-            "id": "f24e22c4287ff34a",
+            "id": "cec184c41a443509",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ядро учебы/Философия/Презентация 05.03 Философия.md",
+                "file": "Статья экономиа.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Статья экономиа"
+            }
+          },
+          {
+            "id": "b8872d3841033601",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия 10.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Презентация 05.03 Философия"
+              "title": "Без названия 10"
+            }
+          },
+          {
+            "id": "e3482e6876949bd0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Задание 18.04 Алгоротмизация.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Задание 18.04 Алгоротмизация"
+            }
+          },
+          {
+            "id": "5df3da16a77dcf0b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Новая папка/Оформление_и_составление_управленческих_документов.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Оформление_и_составление_управленческих_документов"
+            }
+          },
+          {
+            "id": "5a5ad523b5e1903d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "10 актуальных тем для статей по документоведению.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10 актуальных тем для статей по документоведению"
+            }
+          },
+          {
+            "id": "274d46ac38f589f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Статья экономиа.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Статья экономиа"
+            }
+          },
+          {
+            "id": "77800b0c71ffa5b6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Практика Обучение служением.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Практика Обучение служением"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -85,7 +250,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Нелинейный",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -105,12 +270,27 @@
               "icon": "lucide-bookmark",
               "title": "Закладки"
             }
+          },
+          {
+            "id": "c84cb480f5cdd59b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Задачи 20.03 Экономика.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Структура Задачи 20.03 Экономика"
+            }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 242.00043106079102
   },
   "right": {
     "id": "24a1d85c8ae5b186",
@@ -119,7 +299,7 @@
       {
         "id": "48ce80c4d5872927",
         "type": "tabs",
-        "dimension": 45.378151260504204,
+        "dimension": 45.22370012091898,
         "children": [
           {
             "id": "26fe22a436038cc3",
@@ -130,13 +310,61 @@
               "icon": "lucide-git-fork",
               "title": "Граф"
             }
+          },
+          {
+            "id": "d149c1b896d65698",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Пересказ 14.04 Английский.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-coming-in",
+              "title": "Обратные ссылки для Пересказ 14.04 Английский"
+            }
+          },
+          {
+            "id": "85963f23aded4c34",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": false
+              },
+              "icon": "links-going-out",
+              "title": "Исходящие ссылки"
+            }
+          },
+          {
+            "id": "ffc0a990beccf370",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Теги"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "07b0a12b27305369",
         "type": "tabs",
-        "dimension": 35.947712418300654,
+        "dimension": 30.592503022974608,
         "children": [
           {
             "id": "9cd4fcd389c54fbc",
@@ -153,7 +381,7 @@
       {
         "id": "6191ac674cda6398",
         "type": "tabs",
-        "dimension": 18.674136321195146,
+        "dimension": 24.18379685610641,
         "children": [
           {
             "id": "4903f22ac1275e51",
@@ -173,7 +401,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 270.5
+    "width": 362,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,67 +415,65 @@
       "obsidian-importer:Open Importer": false,
       "mermaid-tools:Open Mermaid Toolbar": false,
       "3d-graph:3D Graph": false,
-      "obsidian-textgenerator-plugin:Generate Text!": false,
-      "obsidian-textgenerator-plugin:Text Generator: Templates Packages Manager": false,
-      "companion:Toggle completion": false,
-      "copilot:Open Copilot Chat": false,
-      "smart-connections:Open: View Smart Connections": false,
-      "smart-connections:Open: Smart Chat Conversation": false
+      "workspaces:Пространства": false,
+      "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f24e22c4287ff34a",
+  "active": "ee7ae0101872fdb6",
   "lastOpenFiles": [
-    "Ядро учебы/Философия/Философия.md",
-    "Домашнее задание 19.02 Философия.md",
+    "Презентация 26.03 Философия.md",
+    "Без названия 6.md",
+    "Без названия 7.md",
+    "Без названия 8.md",
+    "Без названия 9.md",
+    "Без названия 10.md",
+    "Вариант 3.md",
+    "10 актуальных тем для статей по документоведению.md",
+    "История 10.04.md",
+    "Задание 11.04 Алгоритмизация.md",
     "Ядро учебы/Английский/4.1.20 пересказ.md",
-    "Ядро учебы/Документоведение/Лекция 14.02 Документоведение.canvas",
-    "Ядро учебы/Философия/Презентация 05.03 Философия.md",
-    "Ядро учебы/Философия/Презентация 26.02 Философия.md",
-    "Ядро учебы/Философия/Видеоматериалы.md",
-    "Ядро учебы/Философия/Философия 12.02.2025.md",
-    "TimeList/2025-06-09.md",
-    "Ядро учебы/Физика/Домашнее задание 10.02 Физика.md",
-    "().md",
-    "Ядро учебы/Математика/Домашнее задание 25.02 Математик.md",
-    "Портфолио/Pasted image 20250226174522.png",
-    "Портфолио/Screenshot 2025-01-30 130540.png",
-    "Портфолио/Pasted image 20250304165641.jpg",
-    "Портфолио/Ядро Навыков.md",
-    "Портфолио/Модели.canvas",
-    "Портфолио/Pasted image 20250304165705.jpg",
-    "Портфолио/Screenshot 2025-01-03 162347.png",
-    "Портфолио/Screenshot 2025-03-04 115314.png",
-    "Портфолио/photo_2022-04-12_09-13-47.jpg",
-    "Портфолио/photo_2022-03-13_18-32-37.jpg",
-    "Портфолио/photo_2022-03-06_15-24-02.jpg",
-    "Портфолио/Каналы для обучения.md",
-    "Ядро учебы/Физика/Физика.md",
-    "Ядро учебы/Физика/Лекция Динамика.md",
+    "Статья экономиа.md",
+    "Практика Обучение служением.md",
+    "Статья первая.md",
+    "Пересказ 14.04 Английский.md",
+    "Без названия 11.md",
+    "Задание 18.04 Алгоротмизация.md",
+    "Новая папка/Оформление_и_составление_управленческих_документов.md",
+    "Новая папка/04.04.md",
+    "Задание 21.03 Документоведение.md",
+    "Новая папка",
+    "Статика 31.03 Физика.md",
+    "Презентация 09.04 Философия.md",
+    "Без названия.md",
     "Без названия.canvas",
-    "symbols.md",
-    "Ядро учебы/Математика/Математика.md",
-    "Ядро учебы/Ядро учебы.md",
-    "Ядро учебы/Математика/Домашнее задание 25.02 Математика.md",
-    "Ядро учебы/Математика/Без названия.canvas",
-    "Заметки.md",
+    "Ядро учебы/Английский/5.1.18 пересказ.md",
+    "Ядро учебы/Английский/Учебник по английскому.md",
+    "Без названия 5.md",
+    "Ядро учебы/Документоведение/Лекция 28.02 Документоведение.canvas",
+    "Ядро учебы/Документоведение/Лекция 14.02 Документоведение.canvas",
+    "Pasted image 20250401200156.png",
+    "Pasted image 20250401200151.png",
+    "Pasted image 20250401200145.png",
+    "Pasted image 20250401200141.png",
+    "Pasted image 20250401200133.png",
+    "Pasted image 20250401200125.png",
     "Ядро учебы/Физика/Домашнее задание 24.02 Физика.canvas",
-    "Ядро учебы/Английский/4.1.19 Слова.md",
-    "TimeList/Рассписание.md",
-    "TimeList/2025-03-10.md",
-    "TimeList/2025-03-24.md",
-    "TimeList/2025-03-04.md",
+    "Ядро учебы/~$eLib.net_book_5b7bfbdf57fedf513f224837219942ab.doc",
+    "Ядро учебы/файлы/Pasted image 20250314095537.png",
+    "Ядро учебы/файлы/Тема_Законодательная_и_нормативно-методическая_база_делопроизводства_3 1.pdf",
+    "Ядро учебы/файлы/Pasted image 20250314095639.png",
+    "Ядро учебы/файлы/Pasted image 20250314095729.png",
+    "Pasted image 20250314091941.png",
+    "Портфолио/Модели.canvas",
+    "Ядро учебы/Математика/Без названия.canvas",
     "TimeList",
     "Ядро учебы/Математика",
-    "..gif",
     "Ядро учебы/файлы/Тема_Законодательная_и_нормативно-методическая_база_делопроизводства_3.pdf",
     "Ядро учебы/файлы/Лекция_1_Введение_Основные_термины_и_определения_4.pdf",
     "Ядро учебы/История/Олимпийская эра.docx",
     "Ядро учебы/Архив",
     "Без названия 1",
     "Без названия 1.canvas",
-    "pptC75D.tmp",
-    "~$Предприятие ООО.pptx",
-    "Профессия — Белый Хакер/Сети/Сетевая модель OSI — Википедия.html",
     "Без названия 3.canvas",
     "Без названия 4.canvas",
     "Без названия 2.canvas"

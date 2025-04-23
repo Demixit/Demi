@@ -3,12 +3,13 @@
   "alwaysUpdateLinks": true,
   "pdfExportSettings": {
     "includeName": true,
-    "pageSize": "Letter",
+    "pageSize": "A4",
     "landscape": false,
-    "margin": "1",
-    "downscalePercent": 68
+    "margin": "0",
+    "downscalePercent": 51
   },
   "showLineNumber": false,
   "readableLineLength": false,
-  "tabSize": 3
+  "tabSize": 3,
+  "strictLineBreaks": true
 }

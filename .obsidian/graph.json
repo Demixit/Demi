@@ -1,22 +1,65 @@
 {
-  "collapse-filter": true,
+  "collapse-filter": false,
   "search": "",
   "showTags": false,
   "showAttachments": false,
   "hideUnresolved": false,
   "showOrphans": true,
-  "collapse-color-groups": true,
-  "colorGroups": [],
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Физика",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "Экономика",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "Математика",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "Философия",
+      "color": {
+        "a": 1,
+        "rgb": 5431378
+      }
+    },
+    {
+      "query": "Алгоритмизация",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "История",
+      "color": {
+        "a": 1,
+        "rgb": 5419488
+      }
+    }
+  ],
   "collapse-display": false,
   "showArrow": true,
-  "textFadeMultiplier": -2,
-  "nodeSizeMultiplier": 1.39179574360912,
-  "lineSizeMultiplier": 2.06083904109589,
+  "textFadeMultiplier": -1,
+  "nodeSizeMultiplier": 1.87909277759189,
+  "lineSizeMultiplier": 2.65855838631041,
   "collapse-forces": false,
-  "centerStrength": 0.333778710949927,
-  "repelStrength": 13.9250493096647,
-  "linkStrength": 0.80619711140803,
+  "centerStrength": 0.493045265522681,
+  "repelStrength": 20,
+  "linkStrength": 0.844797093829167,
   "linkDistance": 500,
-  "scale": 0.19751687919698002,
+  "scale": 0.057094316180033654,
   "close": true
 }
