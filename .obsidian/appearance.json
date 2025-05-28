@@ -3,5 +3,7 @@
   "cssTheme": "Encore",
   "showRibbon": true,
   "accentColor": "",
-  "textFontFamily": ""
+  "textFontFamily": "Comic Sans MS",
+  "monospaceFontFamily": "Comic Sans MS",
+  "interfaceFontFamily": "Comic Sans MS"
 }

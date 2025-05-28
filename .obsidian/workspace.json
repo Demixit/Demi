@@ -4,217 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "9f2d5456b0937d1b",
+        "id": "ef4bc0b021bf44e0",
         "type": "tabs",
         "children": [
           {
-            "id": "d9d0774a8fff4180",
+            "id": "b5184ada2e0f5d93",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Без названия 3.md",
+                "file": "Ядро учебы/Физика/Статика 31.03 Физика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Без названия 3"
+              "title": "Статика 31.03 Физика"
             }
           },
           {
-            "id": "1e61ce73db519192",
+            "id": "60ee1a89432fdf7d",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Задание 10.04 Алгоритмизация.md",
+                "file": "Ядро учебы/Физика/07.04 физика.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Задание 10.04 Алгоритмизация"
+              "title": "07.04 физика"
             }
           },
           {
-            "id": "fd1700a48178bbfc",
+            "id": "150f5b880d5bae8f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Пути экономии оборотных средств предприятия.md",
+                "file": "Ядро учебы/Английский/Пересказ 14.04 Английский.md",
                 "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Пути экономии оборотных средств предприятия"
+              "title": "Пересказ 14.04 Английский"
             }
           },
           {
-            "id": "ee7ae0101872fdb6",
+            "id": "f3f6135566b9824a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Презентация 09.04 Философия.md",
+                "file": "Философия.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Презентация 09.04 Философия"
-            }
-          },
-          {
-            "id": "ae08fcc1de44897e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "История 10.04.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "История 10.04"
-            }
-          },
-          {
-            "id": "4f3fa425d2ab1342",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Задание 11.04 Алгоритмизация.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Задание 11.04 Алгоритмизация"
-            }
-          },
-          {
-            "id": "0eca11119cc322b0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без названия 9.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Без названия 9"
-            }
-          },
-          {
-            "id": "909732dfff96f1c3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Ядро учебы/Английский/4.1.20 пересказ.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "4.1.20 пересказ"
-            }
-          },
-          {
-            "id": "cec184c41a443509",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Статья экономиа.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Статья экономиа"
-            }
-          },
-          {
-            "id": "b8872d3841033601",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Без названия 10.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Без названия 10"
-            }
-          },
-          {
-            "id": "e3482e6876949bd0",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Задание 18.04 Алгоротмизация.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Задание 18.04 Алгоротмизация"
-            }
-          },
-          {
-            "id": "5df3da16a77dcf0b",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Новая папка/Оформление_и_составление_управленческих_документов.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Оформление_и_составление_управленческих_документов"
-            }
-          },
-          {
-            "id": "5a5ad523b5e1903d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "10 актуальных тем для статей по документоведению.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "10 актуальных тем для статей по документоведению"
-            }
-          },
-          {
-            "id": "274d46ac38f589f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Статья экономиа.md",
-                "mode": "preview",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Статья экономиа"
-            }
-          },
-          {
-            "id": "77800b0c71ffa5b6",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Практика Обучение служением.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Практика Обучение служением"
+              "title": "Философия"
             }
           }
         ],
@@ -290,7 +136,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 242.00043106079102
+    "width": 329.00885009765625
   },
   "right": {
     "id": "24a1d85c8ae5b186",
@@ -299,7 +145,7 @@
       {
         "id": "48ce80c4d5872927",
         "type": "tabs",
-        "dimension": 45.22370012091898,
+        "dimension": 33.65853658536586,
         "children": [
           {
             "id": "26fe22a436038cc3",
@@ -317,7 +163,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Пересказ 14.04 Английский.md",
+                "file": "Без названия 7.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -327,7 +173,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Пересказ 14.04 Английский"
+              "title": "Обратные ссылки для Без названия 7"
             }
           },
           {
@@ -358,13 +204,12 @@
               "title": "Теги"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "07b0a12b27305369",
         "type": "tabs",
-        "dimension": 30.592503022974608,
+        "dimension": 29.268292682926827,
         "children": [
           {
             "id": "9cd4fcd389c54fbc",
@@ -381,27 +226,23 @@
       {
         "id": "6191ac674cda6398",
         "type": "tabs",
-        "dimension": 24.18379685610641,
+        "dimension": 37.073170731707314,
         "children": [
           {
             "id": "4903f22ac1275e51",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Заметки.md",
-                "mode": "preview",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "Заметки"
+              "title": "Новая вкладка"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 362,
+    "width": 388,
     "collapsed": true
   },
   "left-ribbon": {
@@ -419,51 +260,53 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "ee7ae0101872fdb6",
+  "active": "f3f6135566b9824a",
   "lastOpenFiles": [
-    "Презентация 26.03 Философия.md",
+    "Философия.md",
+    "Ядро учебы/Английский/Пересказ 14.04 Английский.md",
+    "Ядро учебы/Физика/07.04 физика.md",
+    "Ядро учебы/Физика/Статика 31.03 Физика.md",
+    "10 актуальных тем для статей по документоведению.md",
+    "сценарии  будущего человечества.md",
+    "Расписание.md",
+    "Практика Обучение служением.md",
+    "Пути экономии оборотных средств предприятия.md",
+    "План установки забора.md",
+    "Парфенов Дмитрий Валентинович 23.05.25.md",
+    "Вариант 33 Толкачев Федор Андреевич ИБО-24.md",
+    "Без названия 1.md",
+    "Без названия.md",
+    "Без названия 2.md",
+    "Без названия 3.md",
+    "Без названия 4.md",
+    "Без названия 5.md",
     "Без названия 6.md",
     "Без названия 7.md",
     "Без названия 8.md",
     "Без названия 9.md",
     "Без названия 10.md",
-    "Вариант 3.md",
-    "10 актуальных тем для статей по документоведению.md",
-    "История 10.04.md",
-    "Задание 11.04 Алгоритмизация.md",
-    "Ядро учебы/Английский/4.1.20 пересказ.md",
-    "Статья экономиа.md",
-    "Практика Обучение служением.md",
-    "Статья первая.md",
-    "Пересказ 14.04 Английский.md",
     "Без названия 11.md",
-    "Задание 18.04 Алгоротмизация.md",
-    "Новая папка/Оформление_и_составление_управленческих_документов.md",
-    "Новая папка/04.04.md",
-    "Задание 21.03 Документоведение.md",
+    "Ядро учебы/Физика/задача.md",
+    "Ядро учебы/Физика/Домашнее задание 24.02 Физика.canvas",
+    "Ядро учебы/Физика/Домашнее задание 17.03 Физика.md",
+    "Pasted image 20250523094520.png",
+    "Pasted image 20250523094503.png",
+    "Pasted image 20250523094447.png",
+    "Pasted image 20250523094431.png",
+    "Pasted image 20250523093044.png",
+    "Pasted image 20250523093027.png",
+    "Pasted image 20250523093004.png",
+    "Pasted image 20250523092946.png",
+    "Pasted image 20250523092855.png",
+    "Pasted image 20250523092841.png",
+    "Ядро учебы/~WRL0005.tmp",
+    "Ядро учебы/~WRD0004.tmp",
     "Новая папка",
-    "Статика 31.03 Физика.md",
-    "Презентация 09.04 Философия.md",
-    "Без названия.md",
     "Без названия.canvas",
-    "Ядро учебы/Английский/5.1.18 пересказ.md",
-    "Ядро учебы/Английский/Учебник по английскому.md",
-    "Без названия 5.md",
     "Ядро учебы/Документоведение/Лекция 28.02 Документоведение.canvas",
     "Ядро учебы/Документоведение/Лекция 14.02 Документоведение.canvas",
-    "Pasted image 20250401200156.png",
-    "Pasted image 20250401200151.png",
-    "Pasted image 20250401200145.png",
-    "Pasted image 20250401200141.png",
-    "Pasted image 20250401200133.png",
-    "Pasted image 20250401200125.png",
-    "Ядро учебы/Физика/Домашнее задание 24.02 Физика.canvas",
     "Ядро учебы/~$eLib.net_book_5b7bfbdf57fedf513f224837219942ab.doc",
-    "Ядро учебы/файлы/Pasted image 20250314095537.png",
     "Ядро учебы/файлы/Тема_Законодательная_и_нормативно-методическая_база_делопроизводства_3 1.pdf",
-    "Ядро учебы/файлы/Pasted image 20250314095639.png",
-    "Ядро учебы/файлы/Pasted image 20250314095729.png",
-    "Pasted image 20250314091941.png",
     "Портфолио/Модели.canvas",
     "Ядро учебы/Математика/Без названия.canvas",
     "TimeList",
@@ -471,8 +314,6 @@
     "Ядро учебы/файлы/Тема_Законодательная_и_нормативно-методическая_база_делопроизводства_3.pdf",
     "Ядро учебы/файлы/Лекция_1_Введение_Основные_термины_и_определения_4.pdf",
     "Ядро учебы/История/Олимпийская эра.docx",
-    "Ядро учебы/Архив",
-    "Без названия 1",
     "Без названия 1.canvas",
     "Без названия 3.canvas",
     "Без названия 4.canvas",
