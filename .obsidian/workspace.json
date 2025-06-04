@@ -55,16 +55,96 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Философия.md",
+                "file": "Без названия 5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Философия"
+              "title": "Без названия 5"
+            }
+          },
+          {
+            "id": "34fbfaecc1cab568",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Без названия 10.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Без названия 10"
+            }
+          },
+          {
+            "id": "dbb1305c1efe8ee9",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Немыхин Максимильян ИБО-24.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Немыхин Максимильян ИБО-24"
+            }
+          },
+          {
+            "id": "b1b26908c2d7ed4f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Detailed_Tasks_Tracker.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Detailed_Tasks_Tracker"
+            }
+          },
+          {
+            "id": "3a21c3c12f1ed22a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Лекции Докуметоведение.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Лекции Докуметоведение"
+            }
+          },
+          {
+            "id": "f7961414bbb2509f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ядро учебы/Экономика/Вариант 9.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Вариант 9"
+            }
+          },
+          {
+            "id": "25774cac3a997f94",
+            "type": "leaf",
+            "state": {
+              "type": "3d_graph_view",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "3D-Graph"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 8
       }
     ],
     "direction": "vertical"
@@ -96,7 +176,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Нелинейный",
+                "query": "tag:#tracker",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -123,13 +203,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Задачи 20.03 Экономика.md",
+                "file": "Monika_1030_Days_Tracker.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Задачи 20.03 Экономика"
+              "title": "Структура Monika_1030_Days_Tracker"
             }
           }
         ]
@@ -145,7 +225,7 @@
       {
         "id": "48ce80c4d5872927",
         "type": "tabs",
-        "dimension": 33.65853658536586,
+        "dimension": 38.103919781221514,
         "children": [
           {
             "id": "26fe22a436038cc3",
@@ -163,7 +243,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Без названия 7.md",
+                "file": "Monika_1030_Days_Tracker.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +253,7 @@
                 "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Без названия 7"
+              "title": "Обратные ссылки для Monika_1030_Days_Tracker"
             }
           },
           {
@@ -182,11 +262,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Monika_1030_Days_Tracker.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из Monika_1030_Days_Tracker"
             }
           },
           {
@@ -209,7 +290,7 @@
       {
         "id": "07b0a12b27305369",
         "type": "tabs",
-        "dimension": 29.268292682926827,
+        "dimension": 34.45761166818596,
         "children": [
           {
             "id": "9cd4fcd389c54fbc",
@@ -226,7 +307,7 @@
       {
         "id": "6191ac674cda6398",
         "type": "tabs",
-        "dimension": 37.073170731707314,
+        "dimension": 27.438468550592525,
         "children": [
           {
             "id": "4903f22ac1275e51",
@@ -242,11 +323,11 @@
       }
     ],
     "direction": "horizontal",
-    "width": 388,
-    "collapsed": true
+    "width": 390
   },
   "left-ribbon": {
     "hiddenItems": {
+      "templater-obsidian:Templater": false,
       "switcher:Меню быстрого перехода": false,
       "graph:Граф": false,
       "canvas:Создать новый холст": false,
@@ -260,35 +341,35 @@
       "obsidian-advanced-slides:Show Slide Preview": false
     }
   },
-  "active": "f3f6135566b9824a",
+  "active": "f7961414bbb2509f",
   "lastOpenFiles": [
-    "Философия.md",
-    "Ядро учебы/Английский/Пересказ 14.04 Английский.md",
-    "Ядро учебы/Физика/07.04 физика.md",
+    "Ядро учебы/Экономика/Вариант 7.md",
+    "Ядро учебы/Экономика/Вариант 6.md",
+    "Ядро учебы/Экономика/Вариант 3.md",
+    "Ядро учебы/Экономика/Экономика.md",
+    "Ядро учебы/Экономика/Экономика 24.04 Цимбаллов.md",
+    "Ядро учебы/Экономика/Доклад Экономика.md",
+    "Ядро учебы/Экономика/Доклад ООО.md",
+    "Ядро учебы/Экономика/Задачи 20.03 Экономика.md",
+    "Решение теста и заданий.md",
     "Ядро учебы/Физика/Статика 31.03 Физика.md",
-    "10 актуальных тем для статей по документоведению.md",
-    "сценарии  будущего человечества.md",
-    "Расписание.md",
-    "Практика Обучение служением.md",
-    "Пути экономии оборотных средств предприятия.md",
-    "План установки забора.md",
-    "Парфенов Дмитрий Валентинович 23.05.25.md",
-    "Вариант 33 Толкачев Федор Андреевич ИБО-24.md",
-    "Без названия 1.md",
-    "Без названия.md",
-    "Без названия 2.md",
-    "Без названия 3.md",
-    "Без названия 4.md",
+    "Лекции Докуметоведение.md",
+    "Detailed_Tasks_Tracker.md",
+    "Tasks Plugin - Просмотреть и проверить свои статусы 2025-05-30 21-44-44.md",
+    "Tasks_Tracker_1030_Days.md",
+    "Рабочий день экономика.md",
+    "Monika_1030_Days_Tracker.md",
+    "⬜.md",
+    "Без названия 12.md",
+    "Без названия 13.md",
+    "Без названия 10.md",
+    "Немыхин Максимильян ИБО-24.md",
+    "Без названия 11.md",
     "Без названия 5.md",
     "Без названия 6.md",
-    "Без названия 7.md",
-    "Без названия 8.md",
-    "Без названия 9.md",
-    "Без названия 10.md",
-    "Без названия 11.md",
-    "Ядро учебы/Физика/задача.md",
+    "Без названия 4.md",
+    "Без названия 3.md",
     "Ядро учебы/Физика/Домашнее задание 24.02 Физика.canvas",
-    "Ядро учебы/Физика/Домашнее задание 17.03 Физика.md",
     "Pasted image 20250523094520.png",
     "Pasted image 20250523094503.png",
     "Pasted image 20250523094447.png",
